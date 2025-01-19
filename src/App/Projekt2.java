@@ -16,6 +16,7 @@ public class Projekt2 {
         {
             System.out.println("1. Zaloguj sie");
             System.out.println("2. Zarejestruj sie");
+            System.out.println("3. Dodana linia tesowa w logowaniu");
             int wybor = scanner.nextInt();
             scanner.nextLine();
 
